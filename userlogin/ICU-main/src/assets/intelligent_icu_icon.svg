@@ -1,0 +1,30 @@
+<!-- 文件：intelligent_icu_icon.svg -->
+<svg
+        width="256"
+        height="256"
+        viewBox="0 0 256 256"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+>
+
+    <!-- 背景圆/可选，若不想要就去掉 -->
+    <circle cx="128" cy="128" r="120" fill="#2ebf91" opacity="0.15" />
+
+    <!-- 医院十字 - 白色主体 -->
+    <path
+            d="M118 68h20c5.5 0 10 4.5 10 10v30h30c5.5 0 10 4.5 10 10v20c0 5.5-4.5 10-10 10h-30v30c0 5.5-4.5 10-10 10h-20c-5.5 0-10-4.5-10-10v-30H78c-5.5 0-10-4.5-10-10v-20c0-5.5 4.5-10 10-10h30V78c0-5.5 4.5-10 10-10Z"
+            fill="#fff"
+    />
+    <!-- 下方文字 IntelligentICU，可自由调整字体/坐标 -->
+    <text
+            x="128"
+            y="220"
+            text-anchor="middle"
+            fill="#ffffff"
+            font-family="Arial, sans-serif"
+            font-weight="bold"
+            font-size="18"
+    >
+        IntelligentICU
+    </text>
+</svg>

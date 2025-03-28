@@ -1,0 +1,35 @@
+<!-- 示例：intelligenICU_logo.svg -->
+<svg
+        width="220"
+        height="60"
+        viewBox="0 0 220 60"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- 心电图折线示例 -->
+    <path
+            d="M5 30 H25 L30 10 L35 50 L40 30 H60"
+            stroke="#2EBF91"
+            stroke-width="3"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+    />
+    <!-- Intelligent ICU 左对齐 -->
+    <text
+            x="70"  y="24"
+            fill="#FFFFFF"
+            font-family="Arial, sans-serif"
+            font-weight="bold"
+            font-size="16"
+    >
+        Intelligent
+    </text>
+    <text
+            x="70"  y="44"
+            fill="#FFFFFF"
+            font-family="Arial, sans-serif"
+            font-size="16"
+    >
+        ICU
+    </text>
+</svg>
