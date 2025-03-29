@@ -1,7 +1,7 @@
 <template>
   <el-header class="app-header">
     <div class="header-logo">
-      <h2>智能ICU系统</h2>
+      <h2>智慧ICU系统</h2>
     </div>
     <div class="header-menu">
       <el-menu mode="horizontal" :router="true" :default-active="activeIndex">

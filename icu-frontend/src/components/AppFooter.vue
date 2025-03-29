@@ -1,6 +1,6 @@
 <template>
   <el-footer class="app-footer">
-    <p>© 2024 智能ICU系统 - 重症监护病房患者表情识别系统</p>
+    <p>© 2024 智慧ICU系统 - 重症监护病房患者表情识别系统</p>
   </el-footer>
 </template>
 

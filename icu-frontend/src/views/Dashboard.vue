@@ -10,7 +10,7 @@
     <el-container>
       <el-header>
         <div class="header-logo">
-          <h2>智能ICU系统</h2>
+          <h2>智慧ICU系统</h2>
         </div>
         <div class="header-menu">
           <el-menu mode="horizontal" :router="true" :default-active="activeIndex">
@@ -36,7 +36,7 @@
         <el-row :gutter="20">
           <el-col :span="24">
             <div class="welcome-card">
-              <h1>欢迎使用智能ICU系统</h1>
+              <h1>欢迎使用智慧ICU系统</h1>
               <p>本系统通过人脸识别技术，对重症监护病房患者的微表情进行分析，帮助医护人员更好地了解患者状态。</p>
               <el-button type="primary" size="large" @click="goToFaceRecognition">开始使用人脸识别</el-button>
             </div>
@@ -63,14 +63,14 @@
                 <li><strong>数据记录：</strong>记录患者状态变化，便于医护人员追踪</li>
                 <li><strong>实时监控：</strong>实时监测患者状态，及时发现异常</li>
               </ul>
-              <p>本系统采用先进的人工智能技术，提高重症监护的精准度和效率。</p>
+              <p>本系统采用先进的人工智慧技术，提高重症监护的精准度和效率。</p>
             </div>
           </el-col>
         </el-row>
       </el-main>
       
       <el-footer>
-        <p>© 2025 智能ICU系统 - 重症监护病房患者表情识别系统</p>
+        <p>© 2025 智慧ICU系统 - 重症监护病房患者表情识别系统</p>
       </el-footer>
     </el-container>
   </div>

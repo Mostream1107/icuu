@@ -14,7 +14,7 @@
           <div class="pulse"></div>
         </div>
         <h2>用户注册</h2>
-        <p>创建您的智能ICU系统账号</p>
+        <p>创建您的智慧ICU系统账号</p>
       </div>
       <el-form :model="registerForm" :rules="rules" ref="registerFormRef" class="register-form">
         <el-form-item prop="userName">
