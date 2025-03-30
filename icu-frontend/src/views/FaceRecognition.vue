@@ -39,7 +39,7 @@
         <el-row :gutter="20" class="main-row">
           <el-col :span="16" class="main-col">
             <div class="camera-card">
-              <h3>患者面部表情识别</h3>
+              <h3>患者面部微表情识别</h3>
               <div class="camera-container">
                 <video ref="videoEl" class="camera-feed" autoplay muted></video>
                 <canvas ref="canvasEl" class="face-canvas"></canvas>

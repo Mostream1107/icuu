@@ -70,7 +70,7 @@
       </el-main>
       
       <el-footer>
-        <p>© 2025 智慧ICU系统 - 重症监护病房患者表情识别系统</p>
+        <p>© 2025 智慧ICU系统 - 重症监护微表情识别与RASS评分系统</p>
       </el-footer>
     </el-container>
   </div>

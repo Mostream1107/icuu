@@ -14,7 +14,7 @@
           <div class="pulse"></div>
         </div>
         <h2>智慧ICU系统</h2>
-        <p>重症监护病房患者表情识别系统</p>
+        <p>重症监护微表情识别与RASS评分系统</p>
       </div>
       <el-form :model="loginForm" :rules="rules" ref="loginFormRef" class="login-form">
         <el-form-item prop="userName">
